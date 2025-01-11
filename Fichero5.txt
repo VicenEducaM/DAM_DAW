@@ -1,1 +1,3 @@
 Fichero nuevo en mi repositorio
+Añadimos línea 2
+Añadimos línea 3
