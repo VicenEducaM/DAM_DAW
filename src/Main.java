@@ -3,7 +3,7 @@ import java.util.Scanner;
 public class Main {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
-
+// añadidos comentarios
         while (true) {
             System.out.println("\nSimple Math Operations");
             System.out.println("1. Add two numbers");
