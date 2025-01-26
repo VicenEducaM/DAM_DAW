@@ -1,7 +1,1 @@
-Fichero nuevo en mi repositorio
-Añadimos línea 2
-Añadimos línea 3
-añadimos bugfixing
-seguimos con bugfing2 
-Añado línea 4
-
+solucionando todo con esta línea
