@@ -1,7 +1,7 @@
-Fichero nuevo en mi repositorio
-Añadimos línea 2
-Añadimos línea 3
-añadimos bugfixing
-seguimos con bugfing2 
-Añado línea 4
+Linea 1 main Fichero nuevo en mi repositorio
+main Añadimos línea 2
+main Añadimos línea 3
+main añadimos bugfixing
+main seguimos con bugfing2 
+main Añado línea 4
 
