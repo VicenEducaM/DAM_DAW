@@ -1,2 +1,2 @@
-linea definitiva en bugfixing
-solucionando todo con esta línea en hotfix
+linea definitiva en bugfixing -----------------
+solucionando todo con esta línea en hotfix ----
