@@ -4,4 +4,6 @@ main Añadimos línea 3
 main añadimos bugfixing
 main seguimos con bugfing2 
 main Añado línea 4
-
+linea definitiva en bugfixing -----------------
+solucionando todo con esta línea en hotfix ----
+TODO RESUELTO----------------------------------
